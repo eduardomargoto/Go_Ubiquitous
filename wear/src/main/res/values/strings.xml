@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sunshine WatchFace</string>
+
+    <string name="two_digit_format">%02d</string>
+
+    <string name="weather_data_item_path">/wearable_weather_data</string>
+    <string name="request_data_path">/request_for_weather_data</string>
+
+    <!--Preference keys -->
+    <string name="WEATHER_ID_PREF_KEY" translatable="false">weather_id</string>
+    <string name="MAX_TEMP_PREF_KEY" translatable="false">max_temp</string>
+    <string name="MIN_TEMP_PREF_KEY" translatable="false">min_temp</string>
+</resources>
